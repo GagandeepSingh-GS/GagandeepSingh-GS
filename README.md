@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm Gagandeep Singh 👋</h1>
+<h1 align="center">Gagandeep Singh</h1>
 
-<h3 align="center">🎓 B.Tech CSE Final Year Student | 📊 Aspiring Data Scientist</h3>
+<h3 align="center">B.Tech Computer Science Engineering | Data Science & Machine Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Exploring+Data+Science+%26+Machine+Learning;Turning+Data+Into+Insights;Building+Projects+with+Python+%26+SQL;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Transforming+Data+into+Meaningful+Insights;Final+Year+Computer+Science+Student;Focused+on+Data+Science+and+Machine+Learning;Committed+to+Continuous+Learning+and+Growth" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,19 +12,19 @@
   <a href="https://www.instagram.com/itsmegagan005"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
----
-
-### 🚀 About Me
-
-- 🔭 I'm a Computer Science student exploring **Data Science, Analytics, and Machine Learning**
-- 🌱 I enjoy learning through **practical, hands-on projects**
-- 💡 Continuously improving my skills in **Python, SQL, and ML**
-- 🎯 Career interests: **Data Science • Data Analytics • Machine Learning**
-- 📫 Reach me at **gagandeepsingh81004@gmail.com**
+<p align="center"><i>"Numbers tell stories. I work to help them speak clearly."</i></p>
 
 ---
 
-### 🛠️ Tech Stack
+### About Me
+
+<p>
+I am a final year Computer Science Engineering student with a strong interest in Data Science, Analytics, and Machine Learning. My approach to learning is rooted in practical application, and I consistently work on projects that allow me to translate theoretical knowledge into functional, real-world solutions. I am dedicated to strengthening my technical foundation in Python, SQL, and Machine Learning, and I take a disciplined, detail-oriented approach to every project I undertake. I welcome opportunities to collaborate on meaningful, data-driven work and can be reached at <b>gagandeepsingh81004@gmail.com</b>.
+</p>
+
+---
+
+### Technical Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -39,26 +39,26 @@
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h4>🎬 Movie Sphere</h4>
-      <p>A movie recommendation system built with <b>Python</b> and <b>Streamlit</b>, suggesting films based on user preferences.</p>
+      <h4>Movie Sphere</h4>
+      <p>A movie recommendation system developed using <b>Python</b> and <b>Streamlit</b>, designed to suggest films based on individual user preferences.</p>
     </td>
     <td width="50%">
-      <h4>❤️ Heart Disease Prediction & Diet Recommendation System</h4>
-      <p>A <b>Machine Learning</b> project using <b>Python</b> and <b>Streamlit</b> for educational health prediction and diet recommendations.</p>
+      <h4>Heart Disease Prediction & Diet Recommendation System</h4>
+      <p>A Machine Learning based application built with <b>Python</b> and <b>Streamlit</b>, developed for educational purposes to predict health risk factors and recommend suitable dietary guidance.</p>
     </td>
   </tr>
 </table>
 
-> 🔗 Check out the full source code and more projects on my [GitHub](https://github.com/GagandeepSingh-GS)!
+<p align="center">The complete source code and additional projects are available on my <a href="https://github.com/GagandeepSingh-GS">GitHub</a>.</p>
 
 ---
 
-### 📊 GitHub Streak
+### GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=GagandeepSingh-GS&theme=tokyonight&hide_border=true" />
@@ -66,7 +66,7 @@
 
 ---
 
-### 🤝 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gagandeep-singh7415"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -79,4 +79,4 @@
   <img src="https://komarev.com/ghpvc/?username=GagandeepSingh-GS&color=blueviolet&style=flat" alt="Profile views" />
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/GagandeepSingh-GS">Gagandeep Singh</a> — Thanks for stopping by!</i></p>
+<p align="center"><i>Thank you for visiting my profile. — Gagandeep Singh</i></p>
