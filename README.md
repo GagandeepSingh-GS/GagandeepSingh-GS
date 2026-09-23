@@ -58,12 +58,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GagandeepSingh-GS&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GagandeepSingh-GS&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 📊 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=GagandeepSingh-GS&theme=tokyonight&hide_border=true" />
@@ -85,18 +80,3 @@
 </p>
 
 <p align="center"><i>⭐️ From <a href="https://github.com/GagandeepSingh-GS">Gagandeep Singh</a> — Thanks for stopping by!</i></p>
-
-<!--
-**GagandeepSingh-GS/GagandeepSingh-GS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
